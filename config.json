@@ -1,0 +1,10 @@
+{
+  "database": {
+    "engine": "mysql",
+    "host": "db",
+    "name": "homelab_proxy",
+    "user": "proxy-daemon",
+    "password": "Rapeface1",
+    "port": 3306
+  }
+}
